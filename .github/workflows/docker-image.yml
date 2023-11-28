@@ -31,4 +31,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: hamzasaeed01/java-action:v1
+        tags: hamdan0502/java-action:v1
